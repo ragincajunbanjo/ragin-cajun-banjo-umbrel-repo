@@ -9,7 +9,6 @@ port: 8000
 description: >-
   ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.
 
-
   It takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more in a browsable archive folder. Perfect for saving important websites, online research, and personal archiving.
 
 developer: ArchiveBox
