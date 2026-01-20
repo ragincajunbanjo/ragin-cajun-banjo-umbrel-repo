@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: meshmonitor
+name: MeshMonitor
+tagline: Monitor your Meshtastic nodes
+category: social
+version: "1.0.0"
+port: 8423
+description: >
+  MeshMonitor is a tool to monitor the status of a Meshtastic network. 
+  It logs all Mesh messages to a database and provides a web interface to view the data.
+  
+  ⚠️ IMPORTANT: After installing, you must open the docker-compose.yml file in this app's directory 
+  on your Umbrel and update the MESHTASTIC_NODE_IP to match your actual device's IP address.
+developer: MeshMonitor
+website: https://meshmonitor.org
+dependencies: []
+repo: https://github.com/Yeraze/meshmanager
+support: https://github.com/Yeraze/meshmanager/issues
+gallery:
+  - 1.jpg
+path: ""
+defaultPassword: ""
