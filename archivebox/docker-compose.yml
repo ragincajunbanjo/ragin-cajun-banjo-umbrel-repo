@@ -7,6 +7,7 @@ services:
       # The format here is: <app-id>_<docker-service-name>_1
       APP_HOST: archivebox_server_1
       APP_PORT: 8080
+
   server:
     image: archivebox/archivebox:0.7.4
     restart: on-failure
