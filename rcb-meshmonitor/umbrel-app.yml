@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: meshmonitor
+id: rcb-meshmonitor
 name: MeshMonitor
 tagline: Monitor your Meshtastic nodes
 category: social
