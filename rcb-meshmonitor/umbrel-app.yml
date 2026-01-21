@@ -3,7 +3,7 @@ id: rcb-meshmonitor
 name: MeshMonitor
 tagline: Monitor your Meshtastic nodes
 category: social
-version: "1.0.0"
+version: "1.0.1"
 port: 8423
 description: >
   MeshMonitor is a tool to monitor the status of a Meshtastic network. 
@@ -20,4 +20,5 @@ icon: https://raw.githubusercontent.com/ragincajunbanjo/ragin-cajun-banjo-umbrel
 gallery:
   - https://raw.githubusercontent.com/ragincajunbanjo/ragin-cajun-banjo-umbrel-repo/master/rcb-meshmonitor/1.jpg
 path: ""
-defaultPassword: ""
+defaultUsername: "admin"
+defaultPassword: "changeme"
