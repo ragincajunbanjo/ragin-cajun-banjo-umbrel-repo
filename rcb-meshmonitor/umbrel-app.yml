@@ -16,6 +16,7 @@ website: https://meshmonitor.org
 dependencies: []
 repo: https://github.com/Yeraze/meshmanager
 support: https://github.com/Yeraze/meshmanager/issues
+icon: https://raw.githubusercontent.com/ragincajunbanjo/ragin-cajun-banjo-umbrel-repo/master/rcb-meshmonitor/icon.png
 gallery:
   - 1.jpg
 path: ""
